@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jefferson\\source\\repos\\CursoMVC\\CursoMVC\\CursoMVC.csproj": {}
+    "C:\\Users\\jefferson\\source\\repos\\CursoMvc\\CursoMVC\\CursoMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jefferson\\source\\repos\\CursoMVC\\CursoMVC\\CursoMVC.csproj": {
+    "C:\\Users\\jefferson\\source\\repos\\CursoMvc\\CursoMVC\\CursoMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jefferson\\source\\repos\\CursoMVC\\CursoMVC\\CursoMVC.csproj",
+        "projectUniqueName": "C:\\Users\\jefferson\\source\\repos\\CursoMvc\\CursoMVC\\CursoMVC.csproj",
         "projectName": "CursoMVC",
-        "projectPath": "C:\\Users\\jefferson\\source\\repos\\CursoMVC\\CursoMVC\\CursoMVC.csproj",
+        "projectPath": "C:\\Users\\jefferson\\source\\repos\\CursoMvc\\CursoMVC\\CursoMVC.csproj",
         "packagesPath": "C:\\Users\\jefferson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jefferson\\source\\repos\\CursoMVC\\CursoMVC\\obj\\",
+        "outputPath": "C:\\Users\\jefferson\\source\\repos\\CursoMvc\\CursoMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jefferson\\AppData\\Roaming\\NuGet\\NuGet.Config",
